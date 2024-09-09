@@ -4,7 +4,7 @@ This is a plugin for [YOURLS](https://yourls.org/) 1.9.\* that allows you to imp
 
 ## Installation
 
-1. In `/user/plugins`, create a new folder named `advanced-importer-yourls-main`.
+1. In `/user/plugins`, create a new folder named `mrbr-importer`.
 2. Drop these files in that directory.
 3. Go to the Plugins administration page ( _eg_ `http://sho.rt/admin/plugins.php` ) and activate `Advanced Importer` plugin.
 4. Have fun importing URLs!
