@@ -57,7 +57,7 @@ function mrbr_importer_display_page()
     <h2>Advanced Importer</h2>
     <div class="tips">
         <p>CSV file must have 3 columns: <strong>Title</strong>, <strong>Mobile</strong>, <strong>UTM</strong> <br />
-            Sample: <a href="<?php echo YOURLS_SITE; ?>/user/plugins/mrbr-importer/csv/sample.csv">sample.csv</a>
+            Sample: <a href="<?php echo YOURLS_SITE; ?>/user/plugins/advanced-importer-yourls/csv/sample.csv">sample.csv</a>
             (<b style="color:red">Don't forget to delete the first row</b>)
         </p>
     </div>
